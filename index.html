@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <h1>Expense Tracker</h1>
+    <div id="top-container">
+            <div id="balance">
+                <p>BALANCE</p>
+                <span id = "balance-number">0.00</span>
+            </div>
+    </div>
+    <div id="middle-container">
+        <div id="income">
+            <p>INCOME</p>
+            <span id = "income-number" class = "money plus">0.00</span>
+        </div>
+        <div id="expense">
+            <p>EXPENSE</p>
+            <span id = "expense-number" class = "money minus">0.00</span>
+        </div>
+    </div>       
+    <div id="container">
+            <div id="history">
+                <p>History</p>
+                <hr>
+                <ul id="list" class="list">
+                </ul>
+            </div>
+            <div id="add-transaction">
+                <p>Add new transaction</p>
+                <hr>
+                <p>Text</p>
+                <input type="text" placeholder="Enter text..." id = "transaction-name">
+                <p>Amount</p>
+                <p>(negative - expense, positive - income)</p>
+                <input type="number" placeholder="Enter amount..." id = "transaction-number">
+                <br>
+                <button id = "submit-transaction">Add transaction</button>
+                <button id = "clear">Clear list</button>
+                <span id="error">Complete the fields accordingly first!</span>
+            </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
