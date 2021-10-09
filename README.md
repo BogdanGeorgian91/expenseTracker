@@ -2,4 +2,6 @@
 
 A basic expense tracker. Again, the focus was on JavaScript.
 
-https://github.com/BogdanGeorgian91/expenseTracker/blob/main/ExpenseTrackerFlow.mp4
+
+https://user-images.githubusercontent.com/85880721/136654961-7931f257-a159-4d10-a969-08860636164a.mp4
+
