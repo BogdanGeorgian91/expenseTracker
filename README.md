@@ -1,9 +1,9 @@
 # expenseTracker
 
 Can be seen live here: https://basic-expense-tracker01.netlify.app/
-<br/>
+<br/> <br/>
 A basic expense tracker. Again, the focus was on JavaScript. 
-<br/>
+<br/><br/>
 Project deployed on 21st of September 2021. <br/>
 
 A video of the functionalities:
