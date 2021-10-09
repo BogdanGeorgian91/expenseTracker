@@ -7,5 +7,7 @@ Can be seen live here: https://basic-expense-tracker01.netlify.app/
 
 A video of the functionalities:
 
-https://user-images.githubusercontent.com/85880721/136654961-7931f257-a159-4d10-a969-08860636164a.mp4
+https://user-images.githubusercontent.com/85880721/136655398-03f8d839-cdad-4c49-8825-faeeee1b0714.mp4
+
+
 
